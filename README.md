@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+  <img src="https://render.gitanimals.org/farms/{curyi0}"/>
 </a>
 <!--
 **curyi0/curyi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
